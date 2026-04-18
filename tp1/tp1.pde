@@ -2,7 +2,7 @@
 Hola Profe.
 Al ya tener experiencia con programación, decidí retarme a hacer el trabajo lo mas detallado posible (sin usar degradados jaja).
 Para esto, como verás, usé mayormente beginShape y endShape combinando vertex y curveVertex, pero de todas formas usé unas pocas
-funciones como triangle y ellipse para hacer algun que otro detalle pequeño y que el código tenga un poco de variedad.
+funciones como triangle, ellipse y bezier para hacer algun que otro detalle pequeño y que el código tenga un poco de variedad.
 Saludos,
 Felipe Rubio.
 */
