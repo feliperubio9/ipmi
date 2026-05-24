@@ -51,19 +51,12 @@ Continuar2 = loadImage("botoncomenzar2.png");
 
 }
 
-  // marcar coords, ELIMINAR
-  void mousePressed() {
-  println(mouseX + ", " + mouseY);
-}
-
-
 
 void keyPressed() {
   //desactivar exit
   if (key == ESC){
     key = 0;
   }
-
       }
 
 void draw() {
@@ -81,7 +74,6 @@ musica.loop();
 if (pausa == false){
   timer = timer+1;
 }
-println(timer);
 
   // ojo
   int ojoX = mouseX-47;
